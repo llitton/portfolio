@@ -1,0 +1,19 @@
+h1 {
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 48px;
+  }
+
+img {
+    height:200px;  
+    width:200px;
+}
+
+.container { 
+   align-items:center; /*ensured all elements are centered */
+    display:flex; /*placed all elements in one div*/
+    flex-direction:column; /*endures elements are in a column, rather than a row */
+}
+
+h2 {
+    font-family: 'Gloria Hallelujah', cursive;
+}
